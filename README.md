@@ -1,6 +1,6 @@
-<h1 align="center">Hello, I'm ZeusDevv</h1>
+<h1 align="center">Hello, I'm ZeusDev</h1>
   
-<p align="center">- 🔭 I’m currently working on queuebot/ddos bot.</p>
+<p align="center">- 🔭 I’m currently working on Multi Tasking.</p>
 <p align="center">- 👯 I’m looking to share my knowledge with those who want it.</p>
 <p align="center">- 💬 Ask me about any IT related stuff.</p>
 <p align="center">- 📫 How to reach me: Discord: ZeusDev#0001</p>
